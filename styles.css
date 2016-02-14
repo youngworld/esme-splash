@@ -1,0 +1,122 @@
+body, html {
+ width: 100%;
+ height: 100vh;
+ background: white;
+ margin: 0;
+}
+
+#body-wrapper {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+
+.quote-container {
+  display: block;
+  width: 80%;
+  margin: 100px auto 200px;
+
+
+}
+
+p.quote {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  font-family: 'Playfair Display';
+  font-weight: 100;
+  font-size: 1em;
+
+  color: #ddd;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.title-container {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+}
+
+img.logo {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+
+}
+
+p.description {
+  display: block;
+  font-family: 'Playfair Display';
+  font-weight: 700;
+  font-style: italic;
+  font-size: 22px;
+    line-height: 1.6em;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+
+
+}
+
+
+
+
+.contact-container {
+  display: block;
+  width: 90%;
+  margin: 200px auto 0;
+
+}
+
+
+p.contact {
+  display: inline-block;
+  font-family: 'Playfair Display';
+  font-weight: 100;
+  font-size: 24px;
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+
+}
+
+
+img.object {
+  display: block;
+  width: 40%;
+  max-width: 200px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 50px;
+}
+
+
+a:link {
+  color: #d9d92a;
+  text-decoration: none;
+}
+
+a:visited {
+ color: #d9d92a;
+  text-decoration: none;
+}
+
+a:hover {
+color: #d9d92a;
+  text-decoration: underline;
+}
